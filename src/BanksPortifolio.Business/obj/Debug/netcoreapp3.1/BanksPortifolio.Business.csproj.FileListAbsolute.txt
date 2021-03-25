@@ -1,0 +1,8 @@
+C:\Users\Andrey\source\repos\BanksPortifolio\src\BanksPortifolio.Business\bin\Debug\netcoreapp3.1\BanksPortifolio.Business.deps.json
+C:\Users\Andrey\source\repos\BanksPortifolio\src\BanksPortifolio.Business\bin\Debug\netcoreapp3.1\BanksPortifolio.Business.dll
+C:\Users\Andrey\source\repos\BanksPortifolio\src\BanksPortifolio.Business\bin\Debug\netcoreapp3.1\BanksPortifolio.Business.pdb
+C:\Users\Andrey\source\repos\BanksPortifolio\src\BanksPortifolio.Business\obj\Debug\netcoreapp3.1\BanksPortifolio.Business.AssemblyInfoInputs.cache
+C:\Users\Andrey\source\repos\BanksPortifolio\src\BanksPortifolio.Business\obj\Debug\netcoreapp3.1\BanksPortifolio.Business.AssemblyInfo.cs
+C:\Users\Andrey\source\repos\BanksPortifolio\src\BanksPortifolio.Business\obj\Debug\netcoreapp3.1\BanksPortifolio.Business.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\BanksPortifolio\src\BanksPortifolio.Business\obj\Debug\netcoreapp3.1\BanksPortifolio.Business.dll
+C:\Users\Andrey\source\repos\BanksPortifolio\src\BanksPortifolio.Business\obj\Debug\netcoreapp3.1\BanksPortifolio.Business.pdb
