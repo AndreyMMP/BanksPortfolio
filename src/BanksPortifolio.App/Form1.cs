@@ -1,11 +1,11 @@
-﻿using BanksPortifolio.App.ViewModels;
-using BanksPortifolio.Business.Factories;
+﻿using BanksPortfolio.App.ViewModels;
+using BanksPortfolio.Business.Factories;
 using System;
 using System.Collections.Generic;
 using System.Text.Json;
 using System.Windows.Forms;
 
-namespace BanksPortifolio.App
+namespace BanksPortfolio.App
 {
     public partial class Form1 : Form
     {        

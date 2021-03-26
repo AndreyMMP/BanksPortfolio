@@ -1,7 +1,7 @@
-﻿using BanksPortifolio.Business.Interfaces;
+﻿using BanksPortfolio.Business.Interfaces;
 using System;
 
-namespace BanksPortifolio.Business.Models
+namespace BanksPortfolio.Business.Models
 {
     public abstract class Trade : ITrade
     {

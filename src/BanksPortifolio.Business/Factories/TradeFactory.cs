@@ -1,7 +1,7 @@
-﻿using BanksPortifolio.Business.Models;
+﻿using BanksPortfolio.Business.Models;
 using System;
 
-namespace BanksPortifolio.Business.Factories
+namespace BanksPortfolio.Business.Factories
 {
     public class TradeFactory
     {

@@ -4,12 +4,12 @@
     "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\tests\\BanksPortifolio.Tests\\BanksPortifolio.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\src\\BanksPortifolio.Business\\BanksPortifolio.Business.csproj": {
+    "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\src\\BanksPortifolio.Business\\BanksPortfolio.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\src\\BanksPortifolio.Business\\BanksPortifolio.Business.csproj",
-        "projectName": "BanksPortifolio.Business",
-        "projectPath": "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\src\\BanksPortifolio.Business\\BanksPortifolio.Business.csproj",
+        "projectUniqueName": "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\src\\BanksPortifolio.Business\\BanksPortfolio.Business.csproj",
+        "projectName": "BanksPortfolio.Business",
+        "projectPath": "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\src\\BanksPortifolio.Business\\BanksPortfolio.Business.csproj",
         "packagesPath": "C:\\Users\\Andrey\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\src\\BanksPortifolio.Business\\obj\\",
         "projectStyle": "PackageReference",
@@ -101,8 +101,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\src\\BanksPortifolio.Business\\BanksPortifolio.Business.csproj": {
-                "projectPath": "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\src\\BanksPortifolio.Business\\BanksPortifolio.Business.csproj"
+              "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\src\\BanksPortifolio.Business\\BanksPortfolio.Business.csproj": {
+                "projectPath": "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\src\\BanksPortifolio.Business\\BanksPortfolio.Business.csproj"
               }
             }
           }

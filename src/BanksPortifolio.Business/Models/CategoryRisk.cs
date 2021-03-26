@@ -1,4 +1,4 @@
-﻿namespace BanksPortifolio.Business.Models
+﻿namespace BanksPortfolio.Business.Models
 {
     public enum CategoryRisk
     {

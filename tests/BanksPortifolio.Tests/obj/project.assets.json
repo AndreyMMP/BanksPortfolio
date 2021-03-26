@@ -1649,14 +1649,14 @@
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
       },
-      "BanksPortifolio.Business/1.0.0": {
+      "BanksPortfolio.Business/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/BanksPortifolio.Business.dll": {}
+          "bin/placeholder/BanksPortfolio.Business.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BanksPortifolio.Business.dll": {}
+          "bin/placeholder/BanksPortfolio.Business.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WindowsForms"
@@ -5625,15 +5625,15 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "BanksPortifolio.Business/1.0.0": {
+    "BanksPortfolio.Business/1.0.0": {
       "type": "project",
-      "path": "../../src/BanksPortifolio.Business/BanksPortifolio.Business.csproj",
-      "msbuildProject": "../../src/BanksPortifolio.Business/BanksPortifolio.Business.csproj"
+      "path": "../../src/BanksPortifolio.Business/BanksPortfolio.Business.csproj",
+      "msbuildProject": "../../src/BanksPortifolio.Business/BanksPortfolio.Business.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "BanksPortifolio.Business >= 1.0.0",
+      "BanksPortfolio.Business >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.7.1",
       "coverlet.collector >= 1.3.0",
       "xunit >= 2.4.1",
@@ -5648,9 +5648,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\tests\\BanksPortifolio.Tests\\BanksPortifolio.Tests.csproj",
-      "projectName": "BanksPortifolio.Tests",
-      "projectPath": "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\tests\\BanksPortifolio.Tests\\BanksPortifolio.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\tests\\BanksPortifolio.Tests\\BanksPortfolio.Tests.csproj",
+      "projectName": "BanksPortfolio.Tests",
+      "projectPath": "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\tests\\BanksPortifolio.Tests\\BanksPortfolio.Tests.csproj",
       "packagesPath": "C:\\Users\\Andrey\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\tests\\BanksPortifolio.Tests\\obj\\",
       "projectStyle": "PackageReference",
@@ -5677,8 +5677,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\src\\BanksPortifolio.Business\\BanksPortifolio.Business.csproj": {
-              "projectPath": "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\src\\BanksPortifolio.Business\\BanksPortifolio.Business.csproj"
+            "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\src\\BanksPortifolio.Business\\BanksPortfolio.Business.csproj": {
+              "projectPath": "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\src\\BanksPortifolio.Business\\BanksPortfolio.Business.csproj"
             }
           }
         }

@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\src\\BanksPortifolio.Business\\BanksPortifolio.Business.csproj",
-      "projectName": "BanksPortifolio.Business",
-      "projectPath": "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\src\\BanksPortifolio.Business\\BanksPortifolio.Business.csproj",
+      "projectUniqueName": "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\src\\BanksPortifolio.Business\\BanksPortfolio.Business.csproj",
+      "projectName": "BanksPortfolio.Business",
+      "projectPath": "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\src\\BanksPortifolio.Business\\BanksPortfolio.Business.csproj",
       "packagesPath": "C:\\Users\\Andrey\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\src\\BanksPortifolio.Business\\obj\\",
       "projectStyle": "PackageReference",

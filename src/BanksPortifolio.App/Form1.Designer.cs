@@ -1,5 +1,5 @@
 ﻿
-namespace BanksPortifolio.App
+namespace BanksPortfolio.App
 {
     partial class Form1
     {

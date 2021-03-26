@@ -1,9 +1,9 @@
-using BanksPortifolio.Business.Factories;
-using BanksPortifolio.Business.Models;
+using BanksPortfolio.Business.Factories;
+using BanksPortfolio.Business.Models;
 using System;
 using Xunit;
 
-namespace BanksPortifolio.Tests
+namespace BanksPortfolio.Tests
 {
     public class TradeTests
     {

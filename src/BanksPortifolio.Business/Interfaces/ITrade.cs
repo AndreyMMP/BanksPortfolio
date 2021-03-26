@@ -1,4 +1,4 @@
-﻿namespace BanksPortifolio.Business.Interfaces
+﻿namespace BanksPortfolio.Business.Interfaces
 {
     interface ITrade
     {

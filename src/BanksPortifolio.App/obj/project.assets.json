@@ -2,14 +2,14 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "BanksPortifolio.Business/1.0.0": {
+      "BanksPortfolio.Business/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/BanksPortifolio.Business.dll": {}
+          "bin/placeholder/BanksPortfolio.Business.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BanksPortifolio.Business.dll": {}
+          "bin/placeholder/BanksPortfolio.Business.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WindowsForms"
@@ -18,15 +18,15 @@
     }
   },
   "libraries": {
-    "BanksPortifolio.Business/1.0.0": {
+    "BanksPortfolio.Business/1.0.0": {
       "type": "project",
-      "path": "../BanksPortifolio.Business/BanksPortifolio.Business.csproj",
-      "msbuildProject": "../BanksPortifolio.Business/BanksPortifolio.Business.csproj"
+      "path": "../BanksPortifolio.Business/BanksPortfolio.Business.csproj",
+      "msbuildProject": "../BanksPortifolio.Business/BanksPortfolio.Business.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "BanksPortifolio.Business >= 1.0.0"
+      "BanksPortfolio.Business >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -37,9 +37,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\src\\BanksPortifolio.App\\BanksPortifolio.App.csproj",
-      "projectName": "BanksPortifolio.App",
-      "projectPath": "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\src\\BanksPortifolio.App\\BanksPortifolio.App.csproj",
+      "projectUniqueName": "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\src\\BanksPortifolio.App\\BanksPortfolio.App.csproj",
+      "projectName": "BanksPortfolio.App",
+      "projectPath": "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\src\\BanksPortifolio.App\\BanksPortfolio.App.csproj",
       "packagesPath": "C:\\Users\\Andrey\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\src\\BanksPortifolio.App\\obj\\",
       "projectStyle": "PackageReference",
@@ -66,8 +66,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\src\\BanksPortifolio.Business\\BanksPortifolio.Business.csproj": {
-              "projectPath": "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\src\\BanksPortifolio.Business\\BanksPortifolio.Business.csproj"
+            "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\src\\BanksPortifolio.Business\\BanksPortfolio.Business.csproj": {
+              "projectPath": "C:\\Users\\Andrey\\source\\repos\\BanksPortifolio\\src\\BanksPortifolio.Business\\BanksPortfolio.Business.csproj"
             }
           }
         }

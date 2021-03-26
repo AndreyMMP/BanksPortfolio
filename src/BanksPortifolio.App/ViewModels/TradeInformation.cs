@@ -1,4 +1,4 @@
-﻿namespace BanksPortifolio.App.ViewModels
+﻿namespace BanksPortfolio.App.ViewModels
 {
     public class TradeInformation
     {

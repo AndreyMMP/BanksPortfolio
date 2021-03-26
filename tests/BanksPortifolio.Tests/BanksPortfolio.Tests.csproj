@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\BanksPortifolio.Business\BanksPortifolio.Business.csproj" />
+    <ProjectReference Include="..\..\src\BanksPortifolio.Business\BanksPortfolio.Business.csproj" />
   </ItemGroup>
 
 </Project>
